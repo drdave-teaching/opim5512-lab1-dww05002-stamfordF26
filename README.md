@@ -2,7 +2,4 @@
 
 Dave's live demo in Stamford for Lab 1 - weather/energy EDA
 
-
-
-Dr. Dave was here. 
-
+Shruti is Here in Dr.Dave's repository
